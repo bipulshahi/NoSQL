@@ -1,9 +1,3 @@
-# Lesson 1 — What is **NoSQL** (for a total beginner)
-
-Nice — we’ll take this slowly, one clean step at a time. I’ll explain things using tiny, everyday examples so it’s easy to remember. I’ll base the lesson on the notes you uploaded too. (I used your PDF as a reference.) 
-
----
-
 ## 1) Short plain definition
 
 **NoSQL** = *“Not only SQL”* — a family of databases that store data in ways other than the classic table/row format of relational databases (SQL).
