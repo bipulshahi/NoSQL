@@ -24,8 +24,6 @@ Pick the model that matches your data needs:
 * **Column-Family** (e.g., Cassandra) — great for time-series and analytics at scale.
 * **Graph** (e.g., Neo4j) — best for connected data (social networks, recommendations).
 
-(Your PDF lists these types and when to use them). 
-
 ---
 
 ## 4) Single, tiny example — the difference in shape
@@ -49,8 +47,7 @@ If you later want to store addresses or social links for just some users, you mu
 { "_id": 2, "name": "Bob", "email": "b@x.com", "age": 30, "social": {"twitter":"@bob"} }
 ```
 
-Different documents can have different fields — no ALTER TABLE required. (This example mirrors your PDF’s comparison table). 
-
+Different documents can have different fields — no ALTER TABLE required.
 ---
 
 ## 5) Where NoSQL is *better* than SQL (when to choose NoSQL)
@@ -69,7 +66,6 @@ Different documents can have different fields — no ALTER TABLE required. (This
 * **Mature tooling for analytics** — SQL databases and data warehouses have a long history for complex reports.
 * **When data model is stable** — fixed schema, predictable rows/columns.
 
-(Your PDF also highlights that NoSQL addresses certain RDBMS limitations but RDBMS strengths remain for transactional integrity). 
 
 ---
 
