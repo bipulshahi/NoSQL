@@ -91,4 +91,5 @@ You have to store product catalog for an online store. Some products have sizes,
 
 * Create one flexible JSON document per product (NoSQL document DB), or
 * Create many tables and ALTER schema often (SQL).
-  Most teams pick the document approach for catalogs because each product can carry its own fields.
+
+  Mostly we pick the document approach for catalogs because each product can carry its own fields.
