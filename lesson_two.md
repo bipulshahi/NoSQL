@@ -205,6 +205,6 @@ If you want, tell me what environment you’ll use (local mongod, Atlas, or Comp
 
 ---
 
-# 13 — Revisit + what’s next
+# 13 — Revisit
 
-Recap: MongoDB stores JSON-like documents (BSON) in collections, is schema-flexible, easy to iterate with, and fits modern app patterns. You learned the library analogy, saw small document examples, basic CRUD in `mongosh`, and the role of tools like Compass/Atlas. 
+Recap: MongoDB stores JSON-like documents (BSON) in collections, is schema-flexible, easy to iterate with, and fits modern app patterns.
