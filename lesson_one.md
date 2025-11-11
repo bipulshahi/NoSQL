@@ -11,7 +11,7 @@ Imagine a new social app where millions of users post photos, each post can have
 
 A traditional SQL database forces you to design fixed tables (columns) up front. Whenever posts change shape or volume spikes, managing that becomes hard and slow.
 
-NoSQL was created to solve exactly that: flexible structure and easier horizontal scaling for huge, fast, varied data. (Your PDF covers this exact motivation — flexible docs, scaling and performance). 
+NoSQL was created to solve exactly that: flexible structure and easier horizontal scaling for huge, fast, varied data. 
 
 ---
 
